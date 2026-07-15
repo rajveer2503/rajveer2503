@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="./dark.svg" width="100%" alt="Rajveer Kumar Banner">
+</p>
 
-<!--
-**rajveer2503/rajveer2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Rajveer Kumar
 
-Here are some ideas to get you started:
+### Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about Backend Development, Spring Boot, React, and building scalable web applications.
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/rajveer-kumar-4b1a99362
+- Portfolio: https://rajveer-portfolio-hty5sj50d-rajveer2503s-projects.vercel.app
