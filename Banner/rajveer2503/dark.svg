@@ -468,7 +468,7 @@
       <circle cx="518" cy="81" r="7" fill="#EF4444"/>
       <circle cx="542" cy="81" r="7" fill="#F59E0B"/>
       <circle cx="566" cy="81" r="7" fill="#22C55E"/>
-      <text x="815" y="86" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="12.5" fill="#94A3B8" opacity="0.6">rajveer@portfolio: ~</text>
+      <text x="815" y="86" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="12.5" fill="#94A3B8" opacity="0.6">THE JAVA DEVELOPER ~ Rajveer </text>
 
       <!-- header glass shine sweep -->
       <rect x="490" y="60" width="650" height="42" fill="url(#glassSweep)">
@@ -478,63 +478,26 @@
       <!-- greeting -->
       <text x="520" y="150" font-family="'Segoe UI', Arial, sans-serif" font-size="30" fill="#F8FAFC">Hi 👋</text>
       <text x="520" y="196" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="800" fill="url(#accentGrad)">I'm Rajveer Kumar</text>
+ <text x="502" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#06B6D4" opacity="0.85">&gt;</text>
+      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" opacity="0">Java Full Stack Developer
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.00060;0.01250;0.18250;0.19500;1.00000" dur="20.0s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" opacity="0">Backend Developer
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.20000;0.21250;0.38250;0.39500;1.00000" dur="20.0s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" opacity="0">Spring Boot Developer
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.40000;0.41250;0.58250;0.59500;1.00000" dur="20.0s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" opacity="0">Open Source Learner
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.60000;0.61250;0.78250;0.79500;1.00000" dur="20.0s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" opacity="0">Problem Solver
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.80000;0.81250;0.98250;0.99500;1.00000" dur="20.0s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <rect x="502" y="221" width="10" height="20" rx="1" fill="#06B6D4" opacity="0.9">
+        <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
 
-      <!-- typing rotator -->
-      <text x="502" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#06B6D4" opacity="0.85">&gt;</text>
-
-    <g opacity="0">
-      <animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.18250;0.18250;0.19750;1" dur="20.0s" repeatCount="indefinite"/>
-      <clipPath id="typeClip0">
-        <rect x="520" y="0" width="0" height="40">
-          <animate attributeName="width" values="0;280.0;280.0;0;0" keyTimes="0;0.05500;0.18250;0.18250;1" dur="20.0s" repeatCount="indefinite"/>
-        </rect>
-      </clipPath>
-      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" clip-path="url(#typeClip0)">Java Full Stack Developer</text>
-    </g>
-
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.20000;0.20005;0.38250;0.39750;1.00000" dur="20.0s" repeatCount="indefinite"/>
-      <clipPath id="typeClip1">
-        <rect x="520" y="0" width="0" height="40">
-          <animate attributeName="width" values="0;0;190.4;190.4;0;0" keyTimes="0.00000;0.20000;0.25500;0.38250;0.38250;1.00000" dur="20.0s" repeatCount="indefinite"/>
-        </rect>
-      </clipPath>
-      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" clip-path="url(#typeClip1)">Backend Developer</text>
-    </g>
-
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.40000;0.40005;0.58250;0.59750;1.00000" dur="20.0s" repeatCount="indefinite"/>
-      <clipPath id="typeClip2">
-        <rect x="520" y="0" width="0" height="40">
-          <animate attributeName="width" values="0;0;235.2;235.2;0;0" keyTimes="0.00000;0.40000;0.45500;0.58250;0.58250;1.00000" dur="20.0s" repeatCount="indefinite"/>
-        </rect>
-      </clipPath>
-      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" clip-path="url(#typeClip2)">Spring Boot Developer</text>
-    </g>
-
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.60000;0.60005;0.78250;0.79750;1.00000" dur="20.0s" repeatCount="indefinite"/>
-      <clipPath id="typeClip3">
-        <rect x="520" y="0" width="0" height="40">
-          <animate attributeName="width" values="0;0;212.8;212.8;0;0" keyTimes="0.00000;0.60000;0.65500;0.78250;0.78250;1.00000" dur="20.0s" repeatCount="indefinite"/>
-        </rect>
-      </clipPath>
-      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" clip-path="url(#typeClip3)">Open Source Learner</text>
-    </g>
-
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.80000;0.80005;0.98250;0.99750;1.00000" dur="20.0s" repeatCount="indefinite"/>
-      <clipPath id="typeClip4">
-        <rect x="520" y="0" width="0" height="40">
-          <animate attributeName="width" values="0;0;156.8;156.8;0;0" keyTimes="0.00000;0.80000;0.85500;0.98250;0.98250;1.00000" dur="20.0s" repeatCount="indefinite"/>
-        </rect>
-      </clipPath>
-      <text x="520" y="238" font-family="'Fira Code','Courier New',monospace" font-size="19" fill="#38BDF8" clip-path="url(#typeClip4)">Problem Solver</text>
-    </g>
-
-    <rect x="502" y="221" width="10" height="20" rx="1" fill="#06B6D4" opacity="0.9">
-      <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
 
       <!-- divider -->
       <rect x="520" y="256" width="590" height="1" fill="#F8FAFC" opacity="0.08"/>
@@ -618,7 +581,7 @@
       <rect x="0" y="0" width="78" height="32" rx="16" fill="none" stroke="url(#accentGrad)" stroke-width="1" opacity="0.55">
         <animate attributeName="opacity" values="0.25;0.7;0.25" dur="3s" begin="3.15s" repeatCount="indefinite"/>
       </rect>
-      <text x="39.0" y="21.0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F8FAFC">MySQL</text>
+      <text x="39.0" y="21.0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F8FAFC">SQL</text>
     </g>
 
     <g transform="translate(722,460)" opacity="0">
@@ -636,7 +599,7 @@
       <rect x="0" y="0" width="90" height="32" rx="16" fill="none" stroke="url(#accentGrad)" stroke-width="1" opacity="0.55">
         <animate attributeName="opacity" values="0.25;0.7;0.25" dur="3s" begin="3.45s" repeatCount="indefinite"/>
       </rect>
-      <text x="45.0" y="21.0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F8FAFC">Docker</text>
+      <text x="45.0" y="21.0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F8FAFC">Vercel</text>
     </g>
    
     </g>
