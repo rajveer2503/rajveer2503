@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dark.svg" width="100%" alt="Rajveer Kumar Banner">
+  <img src="Banner/rajveer2503/dark.svg" width="100%" alt="Rajveer Kumar Banner">
 </p>
 
 # Hi 👋 I'm Rajveer Kumar
